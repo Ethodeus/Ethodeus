@@ -6,8 +6,7 @@
 </p>
 <p align="Center">
 	Quick learner who enjoys experimenting with new technology. Able to switch between perfectionism and pragmatism. Agile
-	software development, teamwork, extremely passionate about design. Always trying to better and challenge the status
-	quo. Always willing to think outside the box.
+	software development, teamwork, extremely passionate about design. Always willing and able to think outside the box.
 </p>
 <br />
 <h2 align="center" color="white">Let's connect!</h2>
