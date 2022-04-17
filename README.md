@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
   </a>	
 </p>
- <p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OPP.</p>
+ <p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OOP.</p>
 </div>	
 </td></tr>	
 </td></tr></table>
