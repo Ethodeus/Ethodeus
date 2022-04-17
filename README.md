@@ -26,10 +26,10 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_target">
+<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_target">
+  <a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
   </a>	
 </p>
@@ -46,10 +46,10 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_target">
+<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_target">
+  <a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
   </a>	
 </p>
@@ -66,10 +66,10 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_target">
+<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="https://sebastianospina.netlify.app" target="_target">
+  <a href="https://sebastianospina.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
   </a>	
 </p>
@@ -86,10 +86,10 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/Ethodeus/simple-calculator-project" target="_target">
+<a href="https://github.com/Ethodeus/simple-calculator-project" target="_blank">
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="https://ethodeus.github.io/simple-calculator-project/" target="_target">
+  <a href="https://ethodeus.github.io/simple-calculator-project/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
   </a>	
 </p>
@@ -163,7 +163,7 @@
 
 <h2 align="center" color="white">Let's connect!</h2>
 <p align="center">
-	<a href="https://twitter.com/dev_ethos" target="_target">
+	<a href="https://twitter.com/dev_ethos" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg"
 			width="40px"
@@ -171,28 +171,28 @@
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="#" target="_target">
+	<a href="#" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/angellist.svg"
 			width="40px"
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://www.behance.net/blackintsub" target="_target">
+	<a href="https://www.behance.net/blackintsub" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/behance.svg"
 			width="40px"
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/sebastianocospina/" target="_target">
+	<a href="https://www.linkedin.com/in/sebastianocospina/" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/linkedin-in.svg"
 			width="40px"
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://github.com/Ethodeus" target="_target">
+	<a href="https://github.com/Ethodeus" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/github.svg"
 			width="40px"
