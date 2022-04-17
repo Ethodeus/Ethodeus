@@ -9,15 +9,13 @@
 </p>
 <br />
 <p align="center">Please see <a href="https://sebastianospina.netlify.app">my website</a> for more information!</p>
-
+<br />
 
 <!-- PROJECTS -->
 
 <h2 align="center" color="white">Projects</h2>
-
 <div align="center">
 <table><tr><td width="50%">
-
 <h3 align="center" color="white">Breaking Bad - Infopage</h2>
 <div align="center" >  
 <a href='https://ethodeus.github.io/breaking-bad-info-page/'>
@@ -35,9 +33,7 @@
 </p>
  <p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Breaking Bad fans to find general information about their favorite characters!</p>
 </div>
-
 </td><td width="50%">
-
 <h3 align="center" color="white">Pick 'em Drinks! - Drink recipe site</h2>
 <div align="center" >  
 <a href='https://ethodeus.github.io/pick-em-drinks-project/'>
@@ -55,9 +51,7 @@
 </p>
  <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
 </div>
-
 <tr><td width="50%">
-
 <h3 align="center" color="white">Personal Portfolio</h2>
 <div align="center" >  
 <a href='https://sebastianospina.netlify.app'>
@@ -75,9 +69,7 @@
 </p>
  <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 </div>
-
 </td><td width="50%">
-
 <h3 align="center" color="white">Simple Calculator</h2>
 <div align="center" >  
 <a href='https://ethodeus.github.io/simple-calculator-project/'>
@@ -94,16 +86,12 @@
   </a>	
 </p>
  <p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OPP.</p>
-</div>
-
-	
-
-	
+</div>	
 </td></tr>	
-
-	
 </td></tr></table>
 </div>
+<br />
+<br />
 
 <!-- TECHNOLOGIES -->
  
@@ -160,6 +148,10 @@
 
 </td></tr></table>
 </div>
+
+</br>
+</br>
+<!-- CONTACT -->
 
 <h2 align="center" color="white">Let's connect!</h2>
 <p align="center">
