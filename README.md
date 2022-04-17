@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Banner-image](https://user-images.githubusercontent.com/101031188/163696806-bf404c9d-441c-4f78-b3d0-84b09b2f1d9b.png)
 <!--
 **Ethodeus/Ethodeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
