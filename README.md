@@ -163,7 +163,7 @@
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="#" target="_blank">
+	<a href="https://angel.co/u/sc-ospc" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/angellist.svg"
 			width="40px"
@@ -184,7 +184,7 @@
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://angel.co/u/sc-ospc" target="_blank">
+	<a href="github.com/Ethodeus" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/github.svg"
 			width="40px"
