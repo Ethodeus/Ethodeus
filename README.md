@@ -184,7 +184,7 @@
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="github.com/Ethodeus" target="_blank">
+	<a href="https://github.com/Ethodeus" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/github.svg"
 			width="40px"
