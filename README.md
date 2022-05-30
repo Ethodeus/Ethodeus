@@ -76,16 +76,16 @@
 		<td width="50%" valign="top">
 			<h3 align="center" color="white">Web Dev Interview Prep</h2>
 			<div align="center" >  
-				<a href='https://ethodeus.github.io/simple-calculator-project/'>
+				<a href='https://full-stack-interview-prep.up.railway.app/'>
 					<img src="https://raw.githubusercontent.com/Ethodeus/readme-assets/master/GitHub%20Profile/Project-images/Interview%20questions/ezgif.com-gif-maker%20(1).gif" alt="Calculator" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Ethodeus/simple-calculator-project" target="_blank">
+					<a href="https://github.com/Ethodeus/interview-question-api" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://ethodeus.github.io/simple-calculator-project/" target="_blank">
+					<a href="https://full-stack-interview-prep.up.railway.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
