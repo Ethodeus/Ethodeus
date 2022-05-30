@@ -109,9 +109,9 @@
 				<div align="center" >  
 					<img src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/react.svg" alt="React" height="50" />
 						&nbsp&nbsp&nbsp
-					<img  src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/css3-alt.svg" alt="CSS3" height="50" />
+					<img  src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/css3-alt.svg" alt="CSS3" height="55" />
 						&nbsp&nbsp&nbsp
-					<img  src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/html5.svg" alt="HTML5" height="50" />
+					<img  src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/html5.svg" alt="HTML5" height="55" />
 						&nbsp&nbsp&nbsp
 					<img  src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/js-square.svg" alt="JavaScript" height="50" />  
 					</div>
