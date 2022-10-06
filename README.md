@@ -36,7 +36,7 @@
 				</div>
 			</td>
 			<td width="50%" valign="top">
-				<h3 align="center" color="white">Pick 'em Drinks!</h2>
+				<h3 align="center" color="white">API Administration</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
 						<img src="https://raw.githubusercontent.com/Ethodeus/readme-assets/master/GitHub%20Profile/Project-images/Pick%20'em%20Drinks!/ezgif.com-gif-maker.gif" alt="Pick 'em Drinks!" height="100%" />
@@ -44,14 +44,14 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
+						<a href="https://github.com/the-api-administration/coding-resources-api" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
+						<a href="https://coding-resources-api.up.railway.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
+					 <p><strong>JJavascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies.</p>
 				</div>
 	<tr>
 		<td width="50%" valign="top">
