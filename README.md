@@ -39,7 +39,7 @@
 				<h3 align="center" color="white">API Administration</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
-						<img src="https://raw.githubusercontent.com/Ethodeus/readme-assets/master/GitHub%20Profile/Project-images/Pick%20'em%20Drinks!/ezgif.com-gif-maker.gif" alt="Pick 'em Drinks!" height="100%" />
+						<img src="https://raw.githubusercontent.com/Ethodeus/readme-assets/master/API%20Administration/API%20administration%20gif.gif" alt="Pick 'em Drinks!" height="100%" />
 					</a>
 					<br>
 					<br>
