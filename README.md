@@ -51,7 +51,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					 <p><strong>JJavascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies.</p>
+					 <p><strong>Javascript, Node, Express, EJS</strong> - Search for coding resources by relevant keywords. Serves educational content for a variety of computer science topics, languages and technologies.</p>
 				</div>
 	<tr>
 		<td width="50%" valign="top">
